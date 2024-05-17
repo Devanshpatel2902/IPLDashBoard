@@ -10,26 +10,36 @@ Interactive Visualizations: A range of dynamic charts and graphs to explore diff
 Detailed Analytics: In-depth analysis of team performance, player statistics, and match outcomes.
 User-Friendly Interface: Intuitive and easy-to-navigate interface for a seamless user experience.
 Dashboard Components
+
+
 Home Page: Overview of the current IPL season, including top teams and players.
 Match Details: Live scores, highlights, and detailed statistics of ongoing and completed matches.
 Team Analysis: Performance metrics and comparisons for all IPL teams.
 Player Stats: Individual player performance metrics, including batting and bowling statistics.
 Historical Data: Trends and insights from past IPL seasons.
 Technical Details
+
+
 Data Source: Real-time data integration using APIs and web scraping techniques.
 Power BI Service: Utilizes Power BI for data visualization and dashboard creation.
 Automation: Scheduled refreshes to keep the data up-to-date with minimal manual intervention.
 Custom Visuals: Implementation of custom visuals for enhanced data representation.
 Getting Started
-Clone the Repository: git clone https://github.com/your-username/ipl-live-dashboard.git
+
+
+Clone the Repository: git clone https://github.com/Devanshpatel2902/IPLDashBoard
 Open Power BI: Load the Power BI project file from the repository.
 Configure Data Source: Set up the data sources and API keys as per the instructions provided.
 Publish to Power BI Service: Publish the dashboard to the Power BI service for live updates.
 Prerequisites
+
+
 Power BI Desktop: Download and install from Microsoft Power BI.
 API Access: Ensure you have access to the necessary APIs for fetching live IPL data.
 Git: Version control system to clone the repository.
 Contributing
+
+
 We welcome contributions to enhance the dashboard further. Feel free to open issues or submit pull requests with your improvements and suggestions.
 
 License
